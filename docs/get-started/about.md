@@ -1,4 +1,4 @@
-# Agent Development Kit (ADK)
+pip install google-adk# Agent Development Kit (ADK)
 
 <p style="text-align:center;"> <b> Build, Evaluate and Deploy agents, seamlessly! </b> </p>
 
